@@ -3,7 +3,8 @@ Ce projet vise à analyser les sentiments exprimés sur les réseaux sociaux pen
 
 ## Description
 Le projet consiste à collecter des données à partir de différentes plateformes de réseaux sociaux telles que Twitter, Facebook, et Instagram, puis à les analyser pour extraire des informations utiles sur les discussions et les sentiments des utilisateurs. Les principales étapes du projet comprennent la collecte des données, le prétraitement des données, l'analyse des sentiments et la visualisation des résultats.
- ![image](https://github.com/Moroccan-Data-Scientists/Ramadan-Sentiment-Analysis/assets/121272991/d1391a3f-3814-43c9-8ae6-a04fdc69b124)
+
+                ![image](https://github.com/Moroccan-Data-Scientists/Ramadan-Sentiment-Analysis/assets/121272991/d1391a3f-3814-43c9-8ae6-a04fdc69b124)
 
 ## Fonctionnalités
 - Collecte de données à partir de plusieurs sources de réseaux sociaux(Twitter,Facebook,Hespress,Youtube ....).
