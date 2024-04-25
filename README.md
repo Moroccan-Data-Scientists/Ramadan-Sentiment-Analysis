@@ -10,3 +10,17 @@ Le projet consiste à collecter des données à partir de différentes plateform
 - Prétraitement des données textuelles pour nettoyer, normaliser et préparer les données pour l'analyse.
 - Analyse des sentiments pour déterminer les tendances et les émotions dominantes.
 - Visualisation des résultats à l'aide de graphiques et de tableaux informatifs.
+
+   Explore our project:
+
+🔗 Website: https://moroccansentimentsanalysis.netlify.app/
+
+🔗 Article: https://hashnode.com/post/clva5tiq6000109lacs5z1mzg
+
+🔗 GitHub Repository: https://github.com/Moroccan-Data-Scientists/Ramadan-Sentiment-Analysis
+
+🔗 Data-Ftour Initiative : https://moroccands.com/dataftour
+
+
+
+
