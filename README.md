@@ -1,5 +1,6 @@
 # Analyse des Sentiments durant le Mois de Ramadan via les Réseaux Sociaux
 Ce projet vise à analyser les sentiments exprimés sur les réseaux sociaux pendant le mois de Ramadan. L'objectif est de comprendre les tendances, les opinions et les émotions des utilisateurs pendant cette période importante.
+![image](https://github.com/Moroccan-Data-Scientists/Ramadan-Sentiment-Analysis/assets/81421925/4e3dc1c3-dbe2-4c61-b6c4-d5c1b0ecd4a4)
 
 ## Description
 Le projet consiste à collecter des données à partir de différentes plateformes de réseaux sociaux telles que Twitter, Facebook, et Instagram, puis à les analyser pour extraire des informations utiles sur les discussions et les sentiments des utilisateurs. Les principales étapes du projet comprennent la collecte des données, le prétraitement des données, l'analyse des sentiments et la visualisation des résultats.
